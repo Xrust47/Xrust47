@@ -12,13 +12,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
-## 📈 My Stats :
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorsergeevichisit&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorsergeevichisit&layout=compact&theme=vision-friendly-dark)
-
-![Profile views](https://komarev.com/ghpvc/?username=Igorsergeevichisit)
 
 ## 📞 My Contacts :
 
